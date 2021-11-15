@@ -1,10 +1,9 @@
-import React from 'react'
 
-export default function Projects() {
+import React from 'react';
+import CardContent from "../components/CardContent";
+
+export default function Projects({ cardcontent }) {
   return (
-    <div>
-      <h1>Chris Condreay</h1>
-      <p>My name is Chris and im a junior/entry-level web developer</p>
-    </div>
+    <CardContent />
   );
 }
