@@ -1,11 +1,11 @@
 import React from 'react';
+import '../styles/header.css';
 
 function Header() {
-  const header = 'Chris Condreay';
-
   return (
     <div className="header">
-      <h2>{header}</h2>
+      <h1>Chris Condreay</h1>
+      <h3>React portfolio</h3>
     </div>
   );  
 }
