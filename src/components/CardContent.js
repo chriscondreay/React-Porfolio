@@ -3,18 +3,18 @@ import Card from './Card';
 
 const projects = [
   {
-    name: 'Spot',
-    description: 'The best boy',
+    name: 'Music Forum',
+    description: 'A music forum to read and post bands, fans, and concerts',
     id: 1,
   },
   {
-    name: 'Zero',
-    description: 'A kind soul',
+    name: 'Pints and Pixels',
+    description: 'Got a favorite bar? Want to explore new pubs? Pints and Pixels will point you in the right direction',
     id: 2,
   },
   {
-    name: 'Walter',
-    description: 'Friend for life',
+    name: 'A Wheel Good Time',
+    description: 'Plan a road trip and site see while your at it! Might also need some bathrooms breaks too',
     id: 3,
   },
 ];
