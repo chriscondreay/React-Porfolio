@@ -6,6 +6,7 @@ const projects = [
     name: 'Music Forum',
     description: 'A music forum to read and post bands, fans, and concerts',
     id: 1,
+    
   },
   {
     name: 'Pints and Pixels',

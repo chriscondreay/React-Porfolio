@@ -1,9 +1,9 @@
 
 import React from 'react';
-import CardContent from "../components/CardContent";
+import Card from "../components/Card";
 
 export default function Projects({ cardcontent }) {
   return (
-    <CardContent />
+    <Card />
   );
 }
